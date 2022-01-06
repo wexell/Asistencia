@@ -1,0 +1,12 @@
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\x86\Release\Asistencia.exe.config
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\x86\Release\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\x86\Release\Asistencia.pdb
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.Form1.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.Codigo.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.Form3.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.exe.licenses
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\x86\Release\Asistencia.pdb

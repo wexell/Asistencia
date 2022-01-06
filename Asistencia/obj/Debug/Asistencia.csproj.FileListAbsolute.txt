@@ -1,0 +1,66 @@
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\bin\Debug\Asistencia.exe.config
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\bin\Debug\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\bin\Debug\Asistencia.pdb
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.Form1.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.Codigo.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.Form3.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.exe.licenses
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.pdb
+C:\Users\Administrador\Dropbox\CENTROLAC\Asistencia\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe.config
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.pdb
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Compensasioncu.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.F1Empleado.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form1.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Codigo.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Login.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form3.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Modificar.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe.licenses
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe
+C:\Users\Administrador\Dropbox\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.pdb
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Compensasioncu.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.F1Empleado.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form1.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Codigo.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Login.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form3.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Modificar.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Properties.Resources.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.ucReporte.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csproj.GenerateResource.Cache
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe.licenses
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe.config
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.pdb
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.pdb
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.RepCompensaciones.resources
+H:\Documentos\MEGAsync\COP\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Parametros.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe.config
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.pdb
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.exe
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\bin\Debug\Asistencia.pdb
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csprojResolveAssemblyReference.cache
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Compensasioncu.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.F1Empleado.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form1.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Codigo.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Login.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Form3.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Modificar.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Parametros.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.Properties.Resources.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.RepCompensaciones.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.ucReporte.resources
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.csproj.GenerateResource.Cache
+H:\Documentos\MEGAsync\CIO\CENTROLAC\Desarrollos Soft\Asistencia\Asistencia\obj\Debug\Asistencia.exe.licenses
